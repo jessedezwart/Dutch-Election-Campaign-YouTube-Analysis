@@ -1,0 +1,10 @@
+dataset_anonymized/
+dataset_unprocessed/
+dataset_processed/
+.venv/
+results/
+.env
+sentiment/
+.claude
+__pycache__/
+logs/
